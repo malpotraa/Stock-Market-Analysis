@@ -23,7 +23,7 @@ The purpose of this project is to comparatively analyze the effectiveness of pre
 * How much value do we put at risk by investing in a particular stock?
 * How can we attempt to predict future stock behavior
 
-#### This Notebook will Show Use of:
+## This Notebook will Show Use of:
 #### Data Mining
 #### Data Handling
 * Importing Data with Pandas
