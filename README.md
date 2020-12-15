@@ -15,13 +15,13 @@ Stock Market Analysis and Prediction is the project on technical analysis, visua
 The purpose of this project is to comparatively analyze the effectiveness of prediction algorithms on stock market data and get general insight on this data through visualization to predict future stock behavior and value at risk for each stock. The project encompasses the concept of Data Mining and Statistics. This project makes heavy use of NumPy, Pandas, and Data Visualization Libraries.
 
 ## Queries Answered
- 1.) What was the change in price of the stock over time?
- 2.) What was the daily return of the stock on average?
- 3.) What was the moving average of the various stocks?
- 4.) What was the correlation between different stocks' closing prices?
- 5.) What was the correlation between different stocks' daily returns?
- 6.) How much value do we put at risk by investing in a particular stock?
- 7.) How can we attempt to predict future stock behavior
+* What was the change in price of the stock over time?
+* What was the daily return of the stock on average?
+* What was the moving average of the various stocks?
+* What was the correlation between different stocks' closing prices?
+* What was the correlation between different stocks' daily returns?
+* How much value do we put at risk by investing in a particular stock?
+* How can we attempt to predict future stock behavior
 
 #### This Notebook will Show Use of:
 #### Data Mining
