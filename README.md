@@ -32,3 +32,4 @@ The purpose of this project is to comparatively analyze the effectiveness of pre
 * Barplots
 * KDE-Plots
 * lmplots
+* Heatmap
